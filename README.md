@@ -4,6 +4,9 @@ I'm a front-end engineer, I'm focused on JavaScript and Node.js, but I also love
 - I play games, I want to play games
 - I'm a movie fan, I want to make movies
 
+[My blog](https://github.com/janeLLLL/blog)
+
+
 > :rainbow: Output currently in progress:  [Rainbow Design](https://github.com/rainbow-design)
 
 [![janeLLLL's github stats](https://github-readme-stats.vercel.app/api?username=janeLLLL&show_icons=true&hide_title=true])](https://github.com/janeLLLL)
