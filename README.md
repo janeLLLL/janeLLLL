@@ -1,10 +1,10 @@
-### ✨luoxuanyijing —@rainbow
+### luoxuanyijing —@rainbow
 
 I'm a front-end engineer, I'm focused on JavaScript and Node.js, but I also love making amazing gadgets.
 - I play games, I want to play games
 - I'm a movie fan, I want to make movies
 
-[My blog](https://github.com/janeLLLL/blog)
+✨[My blog](https://github.com/janeLLLL/blog)
 
 
 > :rainbow: Output currently in progress:  [Rainbow Design](https://github.com/rainbow-design)
