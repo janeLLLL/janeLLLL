@@ -1,6 +1,8 @@
 ### ✨luoxuanyijing —@rainbow
 
-我是一名前端工程师，专注于JavaScript和Node.js，但我也喜欢做一些神奇的小玩意儿，我打游戏，也想做游戏，我是影迷，我也想拍电影。
+I'm a front-end engineer, I'm focused on JavaScript and Node.js, but I also love making amazing gadgets.
+- I play games, I want to play games
+- I'm a movie fan, I want to make movies
 
 > :rainbow: Output currently in progress:  [Rainbow Design](https://github.com/rainbow-design)
 
