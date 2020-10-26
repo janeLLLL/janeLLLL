@@ -1,7 +1,7 @@
 ### luoxuanyijing —@rainbow
 
 I'm a front-end engineer, I'm focused on JavaScript and Node.js, but I also love making amazing gadgets.
-- I play games, I want to play games
+- I play games, I want to make a games
 - I'm a movie fan, I want to make movies
 
 ✨[My blog](https://github.com/janeLLLL/blog)
